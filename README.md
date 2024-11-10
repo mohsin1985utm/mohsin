@@ -32,5 +32,29 @@ Security threats to WSNs are evolving, posing challenges from simple eavesdroppi
 
 Multi-objective optimization (MOO) has gained traction as a means to balance WSNs’ conflicting goals, such as energy efficiency, data fidelity, and security. The integration of evolutionary and swarm-based algorithms has shown promise for managing complex WSN objectives in real time, allowing more adaptable performance across varied operational demands. However, despite recent progress, most optimization strategies do not consider the direct integration of decision-maker preferences, limiting their adaptability in dynamic scenarios where operational priorities may shift rapidly. This lack of preference-aware optimization constrains the potential of WSNs in real-time, mission-critical applications [(Alam & Srivastava, 2024)](https://doi.org/10.1016/j.future.2024.106786), [(Saad et al., 2022)](https://doi.org/10.1016/j.future.2022.102345).
 
+### Suggested PhD Research Proposal Titles
+
+1. **"An Integrated Framework for Secure and Adaptive Data Gathering in Wireless Sensor Networks Using Mobile Sink Optimization and Multi-Objective Preferences"**
+
+2. **"Enhancing Wireless Sensor Network Resilience: Multi-Objective Optimization and Adaptive Security Frameworks for High-Stakes IoT Applications"**
+
+3. **"Dynamic and Secure Data Aggregation in Wireless Sensor Networks: A Mobile Sink Approach with Real-Time Multi-Objective Adaptability"**
+
+4. **"Towards Robust Wireless Sensor Networks: Integrating Mobile Sink Trajectories, Adaptive Security, and Decision-Maker Preferences"**
+
+5. **"Developing a Unified Framework for Efficient, Secure, and Preference-Aware Wireless Sensor Networks in IoT Environments"**
+
+---
+
+### Introduction
+
+Wireless Sensor Networks (WSNs) have become indispensable to a wide range of applications, including environmental monitoring, industrial automation, healthcare, and critical infrastructure management. These networks, which consist of spatially distributed sensor nodes collecting and transmitting data, play a crucial role in the Internet of Things (IoT), powering smart systems and enabling real-time decision-making. However, as WSNs grow in complexity and deployment scale, they face escalating challenges in terms of efficiency, security, and adaptability. Recent research has highlighted the need for advanced solutions that can handle the unique demands of large, diverse, and sensitive WSN applications.
+
+A key innovation in WSN data gathering is the use of mobile sinks, which help balance energy consumption and reduce communication costs by moving dynamically within the network. Mobile sinks can mitigate the "energy hole" problem associated with traditional static networks, thereby extending network lifespan and supporting data collection in energy-constrained environments. Although advancements in mobile sink trajectory planning and optimization have demonstrated promising results, most studies lack an integrated approach that combines mobile sink techniques with robust security frameworks. This oversight leaves many WSNs vulnerable to a range of evolving threats, including eavesdropping, spoofing, and multi-vector attacks. Given the critical role of WSNs in high-stakes settings such as healthcare and environmental monitoring, a cohesive framework that incorporates both mobility and security considerations is imperative.
+
+Moreover, as WSN applications become more sophisticated, they require solutions that can balance multiple conflicting objectives, such as energy efficiency, data fidelity, and security. Multi-objective optimization (MOO) techniques, especially those leveraging evolutionary and swarm-based algorithms, have gained attention as a method to navigate these trade-offs. However, current MOO strategies often overlook the integration of decision-maker preferences, limiting their adaptability in real-time scenarios where operational priorities may shift rapidly. Addressing this gap is vital for creating WSNs that are not only efficient and secure but also responsive to user-defined objectives in dynamic, real-world applications.
+
+
+
 
 
