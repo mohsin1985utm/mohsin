@@ -55,6 +55,25 @@ A key innovation in WSN data gathering is the use of mobile sinks, which help ba
 Moreover, as WSN applications become more sophisticated, they require solutions that can balance multiple conflicting objectives, such as energy efficiency, data fidelity, and security. Multi-objective optimization (MOO) techniques, especially those leveraging evolutionary and swarm-based algorithms, have gained attention as a method to navigate these trade-offs. However, current MOO strategies often overlook the integration of decision-maker preferences, limiting their adaptability in real-time scenarios where operational priorities may shift rapidly. Addressing this gap is vital for creating WSNs that are not only efficient and secure but also responsive to user-defined objectives in dynamic, real-world applications.
 
 
+### Research Questions
+
+Based on the provided introduction, problem statement, problem background, and Chapter 2 of the literature review, the following significant research questions can be formulated to guide the study:
+
+1. **How can mobile sink strategies be effectively integrated with comprehensive security frameworks to enhance data gathering efficiency and resilience in Wireless Sensor Networks?**
+   
+2. **What adaptive security mechanisms can be developed to address multiple and evolving attack models in Wireless Sensor Networks without significantly impacting network performance?**
+   
+3. **How can multi-objective optimization techniques be enhanced to incorporate decision-maker preferences in real time, particularly in dynamic, high-stakes WSN applications?**
+   
+4. **What unified framework can simultaneously optimize mobile sink trajectories, adaptive security mechanisms, and multi-objective preferences to improve the reliability, adaptability, and security of WSNs in diverse application settings?**
+   
+5. **What specific trade-offs exist between energy efficiency, security, and data accuracy in WSN data gathering, and how can these trade-offs be managed effectively in a unified optimization framework?**
+
+6. **How can real-time adaptability in WSNs be achieved to respond to dynamic changes in network conditions, security threats, and operational priorities, especially in critical applications such as industrial IoT and environmental monitoring?**
+
+7. **What advanced algorithms or computational techniques (e.g., evolutionary algorithms, swarm intelligence, or machine learning) are most effective for addressing the combined challenges of mobile sink optimization, security, and multi-objective trade-offs in WSNs?**
+
+These research questions aim to address the identified research gaps and serve as a foundation for deriving specific research objectives, driving the study’s focus on developing a comprehensive and adaptive framework for WSNs that balances efficiency, security, and user-defined priorities.
 
 
 
