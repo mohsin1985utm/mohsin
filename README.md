@@ -73,7 +73,44 @@ Based on the provided introduction, problem statement, problem background, and C
 
 7. **What advanced algorithms or computational techniques (e.g., evolutionary algorithms, swarm intelligence, or machine learning) are most effective for addressing the combined challenges of mobile sink optimization, security, and multi-objective trade-offs in WSNs?**
 
-These research questions aim to address the identified research gaps and serve as a foundation for deriving specific research objectives, driving the study’s focus on developing a comprehensive and adaptive framework for WSNs that balances efficiency, security, and user-defined priorities.
+### Selected Research Questions and Derived Objectives
+
+#### Research Question 1:
+**How can mobile sink strategies be effectively integrated with comprehensive security frameworks to enhance data gathering efficiency and resilience in Wireless Sensor Networks?**
+
+**Objective 1:**  
+To develop an integrated framework that combines mobile sink strategies with robust security mechanisms to optimize data gathering efficiency and resilience in Wireless Sensor Networks.
+
+---
+
+#### Research Question 2:
+**What adaptive security mechanisms can be developed to address multiple and evolving attack models in Wireless Sensor Networks without significantly impacting network performance?**
+
+**Objective 2:**  
+To design adaptive security mechanisms capable of identifying, classifying, and mitigating multiple attack models in real-time to enhance network security without compromising performance.
+
+---
+
+#### Research Question 3:
+**How can multi-objective optimization techniques be enhanced to incorporate decision-maker preferences in real time, particularly in dynamic, high-stakes WSN applications?**
+
+**Objective 3:**  
+To formulate a multi-objective optimization model that incorporates real-time decision-maker preferences, enabling adaptive balancing of performance, security, and efficiency in dynamic WSN applications. 
+
+---
+
+The three objectives are **continuous** because they build upon each other to create a cohesive, comprehensive framework for Wireless Sensor Networks (WSNs). Here is the recommended order:
+
+1. **Objective 1** – *Integration*: This objective establishes the foundation by developing an integrated framework that combines mobile sink strategies with security mechanisms to enhance data gathering efficiency and resilience in WSNs.  
+   - **Output**: *Framework*
+
+2. **Objective 2** – *Adaptability*: This builds on the framework by introducing adaptive security mechanisms, enabling real-time response to multiple and evolving attack models, ensuring network security without impacting performance.  
+   - **Output**: *Mechanisms*
+
+3. **Objective 3** – *Optimization*: This final objective enhances the framework by incorporating decision-maker preferences into multi-objective optimization, allowing for adaptive balancing of performance, security, and efficiency in dynamic WSN applications.  
+   - **Output**: *Model*
+
+In summary, the objectives move from creating a foundational framework, adding security adaptability, and finally, optimizing it with user-centered adaptability, making each subsequent objective dependent on the prior one’s outcomes.
 
 
 
